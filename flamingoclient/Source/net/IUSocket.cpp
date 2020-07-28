@@ -9,7 +9,7 @@
 #include "../EncodeUtil.h"
 #include "../IULog.h"
 #include "../MiniBuffer.h"
-#include "protocolstream.h"
+#include "ProtocolStream.h"
 #include "../ZlibUtil.h"
 #include <tchar.h>
 #include <Sensapi.h>
